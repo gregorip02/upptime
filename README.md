@@ -1,6 +1,6 @@
 # [📈 Live Status](https://gregorip02.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Gregori Piñeres](https://lowurl.me/VIBLfqm), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [RestaPros](https://lowurl.me/restapros-android), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/gregorip02/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/gregorip02/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/gregorip02/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/gregorip02/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
