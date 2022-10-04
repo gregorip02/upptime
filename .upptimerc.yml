@@ -3,10 +3,36 @@ owner: gregorip02 # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: Production API
+  - name: API (production)
     url: https://v2.restapros.com
+  - name: API (development)
+    url: https://v2-dev.restapros.com
+    
+  - name: Webapp (production)
+    url: https://web.restapros.com
+  - name: Webapp (development)
+    url: https://web-dev.restapros.com
+    
+  - name: Invitation Page (production)
+    url: https://invite.restapros.com
+  - name: Invitation Page (development)
+    url: https://invite-dev.restapros.com
+
+  - name: Orders Page (production)
+    url: https://orders.restapros.com
+  - name: Orders Page (development)
+    url: https://orders-dev.restapros.com
+    
+  - name: Referrals Page (production)
+    url: https://referrals.restapros.com
+  - name: Referrals Page (development)
+    url: https://referrals-dev.restapros.com
+    
   - name: Multimedia Service
     url: https://media.restapros.com
+  
+  - name: Assets
+    url: https://assets.restapros.com/static/images/restapros.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
