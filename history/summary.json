@@ -188,19 +188,19 @@
     "url": "https://media.restapros.com",
     "icon": "https://icons.duckduckgo.com/ip3/media.restapros.com.ico",
     "slug": "multimedia-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 142,
-    "timeWeek": 126,
-    "timeMonth": 113,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 130,
+    "timeDay": 97,
+    "timeWeek": 117,
+    "timeMonth": 111,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-11-15": 0
+      "2022-11-15": 7
     }
   },
   {
