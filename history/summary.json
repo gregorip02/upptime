@@ -22,19 +22,19 @@
     "url": "https://v2-dev.restapros.com",
     "icon": "https://icons.duckduckgo.com/ip3/v2-dev.restapros.com.ico",
     "slug": "api-development",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 206,
-    "timeWeek": 271,
-    "timeMonth": 379,
-    "timeYear": 491,
+    "time": 498,
+    "timeDay": 819,
+    "timeWeek": 416,
+    "timeMonth": 412,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2023-02-17": 0
+      "2023-02-17": 4
     }
   },
   {
