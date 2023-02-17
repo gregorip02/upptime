@@ -22,9 +22,9 @@
     "url": "https://v2-dev.restapros.com",
     "icon": "https://icons.duckduckgo.com/ip3/v2-dev.restapros.com.ico",
     "slug": "api-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 271,
     "timeMonth": 379,
     "timeYear": 491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-17": 0
+    }
   },
   {
     "name": "Webapp (production)",
