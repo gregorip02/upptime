@@ -189,18 +189,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.restapros.com.ico",
     "slug": "multimedia-service",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
     "time": 142,
     "timeDay": 149,
     "timeWeek": 153,
     "timeMonth": 133,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-02-24": 0
+      "2023-02-24": 71
     }
   },
   {
