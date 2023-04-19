@@ -208,19 +208,19 @@
     "url": "https://assets.restapros.com/static/images/restapros.png",
     "icon": "https://icons.duckduckgo.com/ip3/assets.restapros.com.ico",
     "slug": "assets",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 70,
+    "timeDay": 73,
     "timeWeek": 76,
     "timeMonth": 75,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2023-04-19": 0
+      "2023-04-19": 5
     }
   }
 ]
