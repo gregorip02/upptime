@@ -114,19 +114,19 @@
     "url": "https://orders.restapros.com",
     "icon": "https://icons.duckduckgo.com/ip3/orders.restapros.com.ico",
     "slug": "orders-page-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 127,
-    "timeWeek": 126,
-    "timeMonth": 123,
-    "timeYear": 163,
+    "time": 164,
+    "timeDay": 195,
+    "timeWeek": 143,
+    "timeMonth": 127,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2023-05-05": 0
+      "2023-05-05": 7
     }
   },
   {
